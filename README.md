@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sagar Chavan</h1>
-<h3 align="center">Aspiring Software Engineer | DBDA Student | Coding Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer | PG-DBDA Student | Coding Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar0302&label=Profile%20views&color=0e75b6&style=flat" alt="sagar0302" /> </p>
 
-- 🌱 I’m currently learning **DBDA (Diploma in Big Data Analytics)**  
+- 🌱 I’m currently learning **PG-DBDA (PG-Diploma in Big Data Analytics)**  
 - 💬 Ask me about **C, Python, Java, SQL, and Databases**  
 - 📫 How to reach me: **sagarmchavan2003@gmail.com**  
 
